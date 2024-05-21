@@ -1,10 +1,10 @@
-# expense_tracker
+# flutter expense tracker app
 
-A new Flutter project.
+An expense tracker app for everyday expense tracking. It's not linked with any database.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Download the repository zip, extract its content and then run "pub get". If you encounter dependency deprecation or incompatibility, please update the dependency verions as needed.
 
 A few resources to get you started if this is your first Flutter project:
 
